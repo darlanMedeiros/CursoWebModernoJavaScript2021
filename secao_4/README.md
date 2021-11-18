@@ -26,10 +26,61 @@ const prod2 = {
 - JavaScript a função é "basilar", tudo é basiado em função.
 - Versatilidade do JavaScript é a possibilidade de armazenar uma função em uma variável.
 
-```bash
+```javascript
 //Armazenanado uma funcao em uma variavel
-
 const imprimirSoma = function(a, b){
     console.log(a+ b)
 }
 ```
+
+- Função arrow
+
+```javascript
+//Armazenanado uma funcao em uma variavel
+const soma = (a,b) => {
+     console.log(a+ b)
+}
+//Com retorno implicito
+const subtracao = (a, b) => a-b
+```
+- Evitar de criar variável com escopo global
+- Fuja do escopo global
+
+- let tem escopo de bloco
+
+```javascript
+let numero =1
+{
+    let numero = 2
+    console.log('dentro=' , numero)
+}
+console.log('fora=', numero)
+
+```
+### Neste exemplo acima a variável "let" vai ter dois valor mesmo estando dentro do mesmo escopo, já isso não acontece utilizando "var"
+
+```javascript
+var numero =1
+{
+    var numero = 2
+    console.log('dentro=' , numero)
+}
+console.log('fora=', numero)
+
+```
+- Hoisting é uma possibilidade em javaScript, seria o içamento de uma variável declarada após sua chamada.
+
+```javascript
+console.log('a = ', a)
+var a =2
+console.log('a = ', a)
+
+```
+- O destructuring foi incluido em JS para estração de valores em objetos e arrays
+
+
+
+
+
+
+
