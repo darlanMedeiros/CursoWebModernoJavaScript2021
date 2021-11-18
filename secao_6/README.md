@@ -41,3 +41,25 @@ soma (2,3)(4)
 const cincoMais = soma(2,3)
 cincoMais(4)
 ```
+
+#### Parametros variáveis
+
+```javascript
+function soma (){
+    let soma = 0
+    for( i in arguments){
+        soma+= arguments[i]
+    }
+    return soma
+}
+console.log(soma())
+console.log(soma(1))
+console.log(soma(1.1,2.2, 3.3))
+```
+
+### Parametros Padrão
+
+```javascript
+
+
+```
