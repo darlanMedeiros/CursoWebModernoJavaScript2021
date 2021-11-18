@@ -18,6 +18,7 @@
 
 ### Seção 5 Estrutura de controle em Javascript
 ### Seção 6 Função em Javascript
+[Implementação da seção 6 ](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_6)
 ### Seção 7 Objeto em Javascript
 ### Seção 8 Javascript Array
 ### Seção 9 Lista de exercícios
