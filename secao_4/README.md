@@ -12,8 +12,6 @@ Objeto JSON
 Objeto JS
 >const prod2 = {
     nome: 'Camisa',
-    preco : 79.90
-
-}
+    preco : 79.90 }
 - JSON é um formato textual
 - Objeto vai ter sempre chave valor
