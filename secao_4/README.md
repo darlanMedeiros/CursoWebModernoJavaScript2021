@@ -5,8 +5,15 @@
 - Atralho para executar code Runner no VS code  ctrl+alt+n
 - Objeto em JS é diferente de JSON;
 
-#### Exemplo
+#### Exemplo:
+Objeto JSON
 > '{"nome": "Camisa Polo", "preco" : 79.90}'
 
+Objeto JS
+>const prod2 = {
+    nome: 'Camisa',
+    preco : 79.90
+
+}
 - JSON é um formato textual
 - Objeto vai ter sempre chave valor
