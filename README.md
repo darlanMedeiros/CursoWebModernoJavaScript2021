@@ -1,6 +1,15 @@
 # Curso Web Moderno JavaScript 2021
 
 >Curso realizado na plataforma Udemy disponibilizado por Cod3R.
+#### Ferramentas utilizadas
+- Javascript
+- Angular
+- React
+- Next Vue
+- Node
+- HTML, CSS E jQuery Bootstrap
+- Webpack Gulp
+- MySQL
 
 # Conteudo programado
 ### Seção 4 Fundamentos de Javascript
@@ -28,5 +37,13 @@
 ### Seção 26 VueJS
 ### Seção 27 Projeto VueJS
 ### Seção 28 Projeto Calculadora (Vue)
+### Seção 30 Projeto Aplicação Desktop com JavaScript, Electron JS e Vue JS
+### Seção 31 Angular 9
+### Seção 32 Banco Relacional
+### Seção 33 Banco Não Relacional
+### Seção 34 Express
+### Seção 35 Projeto Base de Conhecimento Backend
+### Seção 36 Projeto Base de Conhecimento Frontend
+### Seção 37 Publicando uma Aplicação VueJS na Amazon
+### Seção 38 Conclusão Curso Desenvolvimento Web
 
->Nesse curso foi visto Javascript do básico ao avançado.
