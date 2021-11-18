@@ -13,6 +13,9 @@
 
 # Conteudo programado
 ### Seção 4 Fundamentos de Javascript
+
+[Implementação da seção 4 ](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_4)
+
 ### Seção 5 Estrutura de controle em Javascript
 ### Seção 6 Função em Javascript
 ### Seção 7 Objeto em Javascript
