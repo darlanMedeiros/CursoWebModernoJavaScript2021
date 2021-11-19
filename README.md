@@ -30,7 +30,7 @@
 ### Seção 9 Lista de exercícios
 [Lista de exercícios fundamentais](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_9)
 ### Seção 10 Node
-[Node] (https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_10)
+[Node](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_10)
 ### Seção 11 ESNext
 ### Seção 12 Conceitos sobre Weg
 ### Seção 13 HTML
