@@ -2,6 +2,10 @@
 
 [Repositório do Curso](https://github.com/cod3rcursos/web-moderno)
 
+# SITE IMPORTANTE DE DOCUMENTAÇÃO
+
+[DEVOLOPER MOZILLA](https://developer.mozilla.org/pt-BR/)
+
 >Curso realizado na plataforma Udemy disponibilizado por Cod3R.
 #### Ferramentas utilizadas
 - Javascript
@@ -24,6 +28,7 @@
 ### Seção 7 Objeto em Javascript
 [Implementação da seção 7 Orientação a Objetos](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_7)
 ### Seção 8 Javascript Array
+[Implementação da seção 8 Arrays JS](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_8)
 ### Seção 9 Lista de exercícios
 ### Seção 10 Node
 ### Seção 11 ESNext
