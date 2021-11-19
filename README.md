@@ -1,5 +1,7 @@
 # Curso Web Moderno JavaScript 2021
 
+[Repositório do Curso](https://github.com/cod3rcursos/web-moderno)
+
 >Curso realizado na plataforma Udemy disponibilizado por Cod3R.
 #### Ferramentas utilizadas
 - Javascript
@@ -14,12 +16,13 @@
 # Conteudo programado
 ### Seção 4 Fundamentos de Javascript
 
-[Implementação da seção 4 ](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_4)
+[Implementação da seção 4 Fundamentos](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_4)
 
 ### Seção 5 Estrutura de controle em Javascript
 ### Seção 6 Função em Javascript
-[Implementação da seção 6 ](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_6)
+[Implementação da seção 6 Funções](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_6)
 ### Seção 7 Objeto em Javascript
+[Implementação da seção 7 Orientação a Objetos](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_7)
 ### Seção 8 Javascript Array
 ### Seção 9 Lista de exercícios
 ### Seção 10 Node

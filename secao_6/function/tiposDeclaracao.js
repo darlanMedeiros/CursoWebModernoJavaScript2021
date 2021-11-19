@@ -20,3 +20,4 @@ console.log(sub(5, 3))
 const mult = function mult (x,y){
     return x * y
 }
+
