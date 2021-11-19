@@ -19,9 +19,7 @@
 
 # Conteudo programado
 ### Seção 4 Fundamentos de Javascript
-
 [Implementação da seção 4 Fundamentos](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_4)
-
 ### Seção 5 Estrutura de controle em Javascript
 ### Seção 6 Função em Javascript
 [Implementação da seção 6 Funções](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_6)
@@ -30,7 +28,9 @@
 ### Seção 8 Javascript Array
 [Implementação da seção 8 Arrays JS](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_8)
 ### Seção 9 Lista de exercícios
+[Lista de exercícios fundamentais](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_9)
 ### Seção 10 Node
+[Node] (https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_10)
 ### Seção 11 ESNext
 ### Seção 12 Conceitos sobre Weg
 ### Seção 13 HTML
