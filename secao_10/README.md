@@ -4,11 +4,11 @@
 
 [RETURN](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021)
 
+#### Comando para instalar biblioteca lodash
 ```basch
-//Comando para instalar biblioteca lodash
 >npm i lodash
-
-//Comando para instalar biblioteca nodemon global
+```
+#### Comando para instalar biblioteca nodemon global
+```basch
 >npm i -g nodemon
-
 ```
