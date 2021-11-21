@@ -52,3 +52,54 @@ const contadorB = require ('./instancia')
 const contadorC = require ('./instanciaNova')()
 
 ```
+
+#### Como recuperar os modulos instalados externos na pasta node_modeles excluidas.
+#### Utilizando o arquivo Funcionarios
+##### ANTES
+```JSON
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
+```
+##### DEPOIS
+> Acresentado o nodemon start para monitorar o arquivo arquivo quando alterado
+```JSON
+{
+  "name": "funcionario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funcionario.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+
+```
+#### Comando para recuperar reisntalar dependências dentro da pasta do Json
+```basch
+npm i
+```
+#### Comando para start o nodemon
+```basch
+npm start
+```
+
