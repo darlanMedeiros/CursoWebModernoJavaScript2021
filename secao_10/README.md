@@ -102,4 +102,29 @@ npm i
 ```basch
 npm start
 ```
+#### No npm é possível executar qualquer código de scrip adicionando no JSCON
+#### Exemplo
+```basch
+npm run devnp
+```
 
+> __dirname: significa está na raiz do projeto sem necessidada passar caminho relativo
+
+#### Criar pequeno projeto, criar a pasta projeto executar os seguintes comando dentro dela.
+
+
+```basch
+npm init -y
+npm i --save express@4.16.2 -E
+```
+>express@4.16.2 -E instala a versão exata
+
+### Instalar nodemon apenas no projeto desenvolvimento usa seguite comando
+### Colocar o arquivo script   "start": "nodemon",
+### Mudar a diretorio do main para : "main": "src/servidor.js",
+
+```bash
+npm i --save-dev nodemon@1.14.11 -E
+npm start
+npm i --save body-parser@1.18.2 -E
+```
