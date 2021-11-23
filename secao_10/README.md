@@ -128,3 +128,9 @@ npm i --save-dev nodemon@1.14.11 -E
 npm start
 npm i --save body-parser@1.18.2 -E
 ```
+
+### Instalar node schedule. Modulo de temporizador
+
+```basch
+
+```

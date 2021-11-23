@@ -34,6 +34,7 @@
 ### Seção 10 Node
 [Node](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_10)
 ### Seção 11 ESNext
+[ESNext nova versão JavaScript](https://github.com/darlanMedeiros/CursoWebModernoJavaScript2021/tree/main/secao_11)
 ### Seção 12 Conceitos sobre Weg
 ### Seção 13 HTML
 ### Secão 14 CSS
