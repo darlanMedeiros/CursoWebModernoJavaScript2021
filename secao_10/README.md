@@ -132,5 +132,5 @@ npm i --save body-parser@1.18.2 -E
 ### Instalar node schedule. Modulo de temporizador
 
 ```basch
-
+npm i node-schedule@1.3.0 -E
 ```
