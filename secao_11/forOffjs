@@ -1,0 +1,40 @@
+for (let letras of "Cod3r"){
+    console.log(letras)
+}
+
+const assuntosEcma = ['Map', 'Set', 'Promise']
+
+for (let i in assuntosEcma){
+    console.log(i)
+}
+
+for (let i of assuntosEcma){
+    console.log(i)
+}
+
+const assuntosMap = new Map ([
+    ['Map', {abordado: true}],
+    ['Set',{abordado: true}],
+    ['Promese',{abordado: false}]
+])
+//Imprime o map
+for (let assunto of assuntosMap){
+    console.log(assunto)
+}
+//Imprime as chaves do map
+for (let chave of assuntosMap.keys()){
+    console.log(chave)
+}
+
+//Imprime os valores do map
+for (let value of assuntosMap.values()){
+    console.log(value)
+}
+
+//Imprime as chaves e valores do Map
+for (let[ch,vl] of assuntosMap.entries()){
+    console.log(ch,vl)
+}
+
+
+
